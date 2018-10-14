@@ -1,6 +1,6 @@
 # PrimeMultiplicationTable
 
-An Android application that calculates and displays a multiplication table of the first 10 prime numbers.
+## An Android application that calculates and displays a multiplication table of the first 10 prime numbers.
 <img src=https://raw.githubusercontent.com/emmanuelkehinde/PrimeMultiplicationTable/master/screenshot/table.gif alt="Prime Multiplication Table" width=360 height=640 />
 
 ### Overview
