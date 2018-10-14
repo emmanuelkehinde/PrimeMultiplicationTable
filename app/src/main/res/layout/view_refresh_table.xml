@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:lineSpacingExtra="4dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:text="@string/insert_the_number_of_prime_numbers_to_be_used_to_generate_the_multiplication_table"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:layout_marginTop="16dp"
+        android:lineSpacingExtra="4dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:text="Note: For effecient rendering, maximum number of prime numbers allowed is 100."/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:id="@+id/edt_number_of_prime_no"
+        android:inputType="number"
+        android:layout_marginTop="16dp"
+        android:hint="@string/number_of_prime_numbers"/>
+</LinearLayout>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prime Multiplication Table</string>
+    <string name="prompt_empty_number_of_prime_numbers">Insert the number of prime numbers desired</string>
+    <string name="title_refresh_table">Refresh Multiplication Table</string>
+    <string name="insert_the_number_of_prime_numbers_to_be_used_to_generate_the_multiplication_table">Insert the number of prime numbers to be used to generate the multiplication table.</string>
+    <string name="number_of_prime_numbers">Number of Prime Numbers</string>
+    <string name="prompt_processing">Processing...it may take few seconds</string>
+</resources>
