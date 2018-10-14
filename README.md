@@ -6,7 +6,7 @@
 ### Overview
 * App calculates and displays a multiplication table of the first 10 prime numbers
 * You can also specify an arbitrary number of prime numbers desired
-* [Install APK](https://test.com)
+* [Install APK](https://www.dropbox.com/s/8ixo4538tbj7bo9/PrimeMultiplicationTable.apk?dl=0)
 
 ### How to use
 * Clone Github Repo
